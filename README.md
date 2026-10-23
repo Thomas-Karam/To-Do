@@ -1,6 +1,9 @@
-# todo
-
-A new Flutter project.
+# To Do List
+Built with a privacy-first approach, this app stores all your data locally on your device, ensuring your tasks remain secure and under your total control.
+# Technology Using
+- Flutter
+- Dart
+- SQLite
 
 ## Getting Started
 
